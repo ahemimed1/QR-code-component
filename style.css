@@ -51,7 +51,9 @@ body{
     padding: 0 25px;
     text-transform: capitalize;
     font-weight: 700;
+    color: var(--Dark-blue);
     margin-bottom: 15px;
+    font-size:19px;
 }
 p{
     padding: 0 25px;
